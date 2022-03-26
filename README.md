@@ -21,3 +21,15 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+Built With:
+
+HTML
+CSS
+JavaScript
+BootStrap
+jQuery
+Moment.js
+Googleapis
+FontAwesome
+Stackpath
