@@ -34,8 +34,8 @@ Googleapis
 FontAwesome
 Stackpath
 
-Website Link
+Website Link:
 
 
-Made By
+Made By:
 Nathan Smith 
