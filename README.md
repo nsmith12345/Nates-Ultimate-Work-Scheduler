@@ -2,6 +2,8 @@
 
 Purpose: 
 
+User's can add important events to this daily planner and therefore manage their time more efficiently. 
+
 User Story: 
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
@@ -25,17 +27,26 @@ THEN the saved events persist
 Built With:
 
 HTML
+
 CSS
+
 JavaScript
+
 BootStrap
+
 jQuery
+
 Moment.js
+
 Googleapis
+
 FontAwesome
+
 Stackpath
 
 Website Link:
 
 
 Made By:
+
 Nathan Smith 
