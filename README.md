@@ -33,3 +33,9 @@ Moment.js
 Googleapis
 FontAwesome
 Stackpath
+
+Website Link
+
+
+Made By
+Nathan Smith 
