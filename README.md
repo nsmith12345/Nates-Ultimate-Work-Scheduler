@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Nate's Ultimate Work Scheduler
 
 Purpose: 
 
@@ -48,6 +48,11 @@ Stackpath
 
 Website Link:
 
+
+
+Screen Shot:
+
+![#Nate's Ultimate Work Scheduler](./Images/Nate's-Ultimate-Work-Scheduler.jpeg)
 
 Made By:
 
