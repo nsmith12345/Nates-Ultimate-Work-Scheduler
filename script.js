@@ -22,7 +22,7 @@ $(document).ready(function () {
             $(this).removeClass("future");
             $(this).removeClass("present");
         }
-        else if (rowHour === currenthour) { //Is this the current Block?
+        else if (rowHour === currentHour) { //Is this the current Block?
             $(this).removeClass("past");
             $(this).addClass("present");
             $(this).removeClass("future");
